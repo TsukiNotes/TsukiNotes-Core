@@ -1,0 +1,35 @@
+# Compiled Java classes
+target/
+*.class
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Spring Boot specific
+spring.log
